@@ -15,7 +15,7 @@ const Hero = () => (
       }
       description={
         <div className="text-xl leading-8">
-          Ephraim is a skilled Kent-based
+          I am a skilled Kent-based
           <a className="text-cyan-400 hover:underline" href="/">
             {' '}
             Frontend Developer
@@ -25,7 +25,7 @@ const Hero = () => (
             {' '}
             React, Redux, Typescript and JavaScript.{' '}
           </a>
-          With a strong eye for design and attention to detail, he creates
+          With a strong eye for design and attention to detail, I create
           visually stunning and intuitive user interfaces. Committed to
           excellence, Ephraim delivers exceptional web experiences that surpass
           expectations.
