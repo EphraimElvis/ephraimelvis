@@ -27,7 +27,7 @@ const Hero = () => (
           </a>
           With a strong eye for design and attention to detail, I create
           visually stunning and intuitive user interfaces. Committed to
-          excellence, Ephraim delivers exceptional web experiences that surpass
+          excellence, I deliver exceptional web experiences that surpass
           expectations.
         </div>
       }
