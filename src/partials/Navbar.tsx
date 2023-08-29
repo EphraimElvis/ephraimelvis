@@ -31,7 +31,7 @@ const Navbar = () => (
         />
       </a>
       <NavMenu>
-        <NavMenuItem href="https://www.google.com/">View Resume</NavMenuItem>
+        <NavMenuItem href="https://storage-bucket-project.s3.amazonaws.com/Ephraim.pdf">View Resume</NavMenuItem>
       </NavMenu>
     </div>
   </Section>
