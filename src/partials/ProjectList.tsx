@@ -82,6 +82,22 @@ const ProjectList = () => (
           </>
         }
       />
+      <Project
+        name="Agency Website"
+        description="Agency Website is a project built on bootstrap and javascript. This website is built using Mobile accessibility checklist."
+        link="https://agency-website-3zzz82t8q-ephraimelvis.vercel.app/"
+        img={{
+          src: '/assets/project/building.svg',
+          alt: 'Spacex Rocket Wiki',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.VIOLET}>HTML</Tags>
+            <Tags color={ColorTags.LIME}>CSS</Tags>
+            <Tags color={ColorTags.YELLOW}>JavaScript</Tags>
+          </>
+        }
+      />
     </div>
   </Section>
 );
